@@ -1,0 +1,41 @@
+text,category
+uber,Transport
+ola,Transport
+rapido,Transport
+pizza,Food
+burger,Food
+amazon,Shopping
+flipkart,Shopping
+doctor,Health
+medicine,Health
+movie,Entertainment
+netflix,Entertainment
+electricity,Utilities
+wifi,Utilities
+paneer butter masala,Food
+college canteen lunch,Food
+roadside chai,Food
+dominos pizza,Food
+rapido bike ride,Transport
+ola cab,Transport
+train ticket,Transport
+metro card recharge,Transport
+gas cylinder bill,Utilities
+mobile recharge,Utilities
+hostel electricity,Utilities
+flipkart order,Shopping
+meesho clothes,Shopping
+mall shopping,Shopping
+shoe purchase,Shopping
+spotify subscription,Entertainment
+concert ticket,Entertainment
+gaming recharge,Entertainment
+movie popcorn,Entertainment
+books purchase,Education
+coursera course,Education
+udemy class,Education
+college fees,Education
+doctor consultation,Health
+medicine purchase,Health
+hospital bill,Health
+gym membership,Health
